@@ -20,9 +20,9 @@
 2. ติดตั้ง ``` npm install ```
 3. test ``` npm test ```
 4. run file ``` node ตาทด้วยชื่อfile .js```
-
+# SAVE FILE ก่อนกด test และupload
 <h3>ทำข้อสอบเสร็จ</h3>
-  #SAVE FILE ก่อนกด test และupload
+
 1. uplode file ด้วยการ
 ``` $git add <file_name>```
 ```$git add README.md  ```  #เพิ่มไฟล์ชื่อ README.md เข้าไปที่สถานะ Staged<br>
